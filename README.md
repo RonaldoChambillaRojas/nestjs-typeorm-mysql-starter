@@ -42,7 +42,7 @@ Una plantilla completa y lista para usar de NestJS con TypeORM y MySQL, configur
 
 1. **Clonar el repositorio:**
 ```bash
-git clone https://github.com/tu-usuario/nestjs-typeorm-mysql-starter.git
+git clone https://github.com/RonaldoChambillaRojas/nestjs-typeorm-mysql-starter.git
 cd nestjs-typeorm-mysql-starter
 ```
 
